@@ -80,4 +80,78 @@ Some of the problems do not have a description. I'll document them in due time.
 			<a target="_blank" href="#"></a>
 		</td>
 	</tr>
+	<tr>
+		<td>9</td>
+		<td>Expression into binary tree</td>
+		<td>
+			Filename: Calculator.java<a target="_blank" href="#"></a>
+		</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>Far Vertices</td>
+		<td>
+			<a target="_blank" href="#"></a>
+		</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>Matrix</td>
+		<td>
+			This uses radix sort algo<a target="_blank" href="#"></a>
+		</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>Find Median</td>
+		<td>
+			This uses AVL Tree to find median of a running stream of integers<a target="_blank" href="#"></a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3">Codechef Problems</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>Minimum No of Moves</td>
+		<td>
+			<a target="_blank" href="#"></a>
+		</td>
+	</tr>
+</table>
+
+
+These are my custom made data structures
+
+<table>
+	<tr>
+		<th>S.no</th>
+		<th>File Name</th>
+		<th>Description</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>Stacks.java</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Queue.java</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>StringAVLTrees.java</td>
+		<td>This is present inside Amazon Coding Contest</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>BinaryTree.java</td>
+		<td>This also has a test class to play with</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>LinkedList.java</td>
+		<td>This also has a test class to play with</td>
+	</tr>
 </table>
