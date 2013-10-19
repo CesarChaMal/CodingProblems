@@ -118,6 +118,37 @@ Some of the problems do not have a description. I'll document them in due time.
 			<a target="_blank" href="#"></a>
 		</td>
 	</tr>
+	<tr>
+		<td colspan="3">Amazon Coding Contest</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>Connected Sets</td>
+		<td>
+			<a target="_blank" href="#"></a>
+		</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>Fibonacci Factor</td>
+		<td>
+			<a target="_blank" href="#"></a>
+		</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>Metting Schedules</td>
+		<td>
+			<a target="_blank" href="#"></a>
+		</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>Shortest Sub Segments</td>
+		<td>
+			<a target="_blank" href="#"></a>
+		</td>
+	</tr>
 </table>
 
 
