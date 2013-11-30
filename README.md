@@ -26,10 +26,17 @@ Some of the problems do not have a description. I'll document them in due time.
 		</td>
 	</tr>
 	<tr>
+		<td>2</td>
+		<td>Angry Children</td>
+		<td>
+			<a target="_blank" href="https://www.hackerrank.com/contests/oct13/challenges/angry-children">https://www.hackerrank.com/contests/oct13/challenges/angry-children</a>
+		</td>
+	</tr>
+	<tr>
 		<td colspan="3">Hacker Rank Other Problems</td>
 	</tr>
 	<tr>
-		<td>2</td>
+		<td>3</td>
 		<td>Stock Maximize</td>
 		<td>
 			<a target="_blank" href="https://www.hackerrank.com/challenges/stockmax">https://www.hackerrank.com/challenges/stockmax</a>
@@ -39,70 +46,70 @@ Some of the problems do not have a description. I'll document them in due time.
 		<td colspan="3">Interviewstreet Problems</td>
 	</tr>
 	<tr>
-		<td>3</td>
+		<td>4</td>
 		<td>Candies</td>
 		<td>
 			<a target="_blank" href="#"></a>
 		</td>
 	</tr>
 	<tr>
-		<td>4</td>
+		<td>5</td>
 		<td>Even Tree</td>
 		<td>
 			<a target="_blank" href="#"></a>
 		</td>
 	</tr>
 	<tr>
-		<td>5</td>
+		<td>6</td>
 		<td>Flowers</td>
 		<td>
 			<a target="_blank" href="https://www.hackerrank.com/challenges/flowers">https://www.hackerrank.com/challenges/flowers</a>
 		</td>
 	</tr>
 	<tr>
-		<td>6</td>
+		<td>7</td>
 		<td>House Location</td>
 		<td>
 			<a target="_blank" href="#"></a>
 		</td>
 	</tr>
 	<tr>
-		<td>7</td>
+		<td>8</td>
 		<td>Kdifference</td>
 		<td>
 			<a target="_blank" href="#"></a>
 		</td>
 	</tr>
 	<tr>
-		<td>8</td>
+		<td>9</td>
 		<td>String Reduction</td>
 		<td>
 			<a target="_blank" href="#"></a>
 		</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>10</td>
 		<td>Expression into binary tree</td>
 		<td>
 			Filename: Calculator.java<a target="_blank" href="#"></a>
 		</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>11</td>
 		<td>Far Vertices</td>
 		<td>
 			<a target="_blank" href="#"></a>
 		</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>12</td>
 		<td>Matrix</td>
 		<td>
 			This uses radix sort algo<a target="_blank" href="#"></a>
 		</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>13</td>
 		<td>Find Median</td>
 		<td>
 			This uses AVL Tree to find median of a running stream of integers<a target="_blank" href="#"></a>
@@ -112,7 +119,7 @@ Some of the problems do not have a description. I'll document them in due time.
 		<td colspan="3">Codechef Problems</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>14</td>
 		<td>Minimum No of Moves</td>
 		<td>
 			<a target="_blank" href="#"></a>
@@ -122,28 +129,28 @@ Some of the problems do not have a description. I'll document them in due time.
 		<td colspan="3">Amazon Coding Contest</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>15</td>
 		<td>Connected Sets</td>
 		<td>
 			<a target="_blank" href="#"></a>
 		</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>16</td>
 		<td>Fibonacci Factor</td>
 		<td>
 			<a target="_blank" href="#"></a>
 		</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>17</td>
 		<td>Metting Schedules</td>
 		<td>
 			<a target="_blank" href="#"></a>
 		</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>18</td>
 		<td>Shortest Sub Segments</td>
 		<td>
 			<a target="_blank" href="#"></a>
