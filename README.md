@@ -16,6 +16,16 @@ Some of the problems do not have a description. I'll document them in due time.
 		<th>Problem Link</th>
 	</tr>
 	<tr>
+		<td colspan="3">Hacker Rank - November Hack 101, 2013</td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>Service Lane</td>
+		<td>
+			<a target="_blank" href="https://www.hackerrank.com/contests/101nov13/challenges/service-lane">https://www.hackerrank.com/contests/101nov13/challenges/service-lane</a>
+		</td>
+	</tr>
+	<tr>
 		<td colspan="3">Hacker Rank - October Hack 20-20, 2013</td>
 	</tr>
 	<tr>
