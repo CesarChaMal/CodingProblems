@@ -37,6 +37,8 @@ public class Queue {
     public int pop(){
     	if(first !=null){
     		QueueNode temp = first;
+			if(first==last)
+				last=null;
 	    	first = first.next;
 	    	size--;
 	    	return  temp.data;
